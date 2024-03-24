@@ -24,8 +24,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="--------------------">
-    <img src="---------------" alt="Logo" width="80" height="80">
+  <a href="https://github.com/rohan27011/Photography">
+    <img src="main/assets/download.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Photography Portfolio</h3>
@@ -34,7 +34,7 @@
     A Website created using Tailwind CSS, HTML, CSS <br /> and JavaScript that can be used as a Photography Portfolio.
     <br />
     <br />
-    <a href="--------------------">View Demo</a>
+    <a href="https://photography-opal-one.vercel.app/index.html">View Demo</a>
     <br />
     <br />
     
@@ -71,8 +71,8 @@
 
 # 📋 About The Project <a name="about-the-project"></a>
 
-[![Product Name Screen Shot][product-screenshot]]
-(------------------------------------------------)
+[Product Name Screen Shot][product-screenshot]
+(https://github.com/rohan27011/Photography)
 
 This project is a web-based portfolio that beautifully showcases the photography work of Sophia Williams, a fictional photographer. The portfolio was skillfully built using a combination of powerful front-end technologies, including Tailwind CSS, CSS, HTML, and JavaScript.
 
@@ -104,7 +104,7 @@ To get a local copy up and running follow these simple example steps.
 1. Clone the repo
 
 ```sh
- git clone https:----------------------------------
+ git clone https:https://github.com/rohan27011/Photography/.git
 ```
 
 2.  Run the following command:
@@ -126,7 +126,7 @@ To get a local copy up and running follow these simple example steps.
 
 Rohan Tiwari - https://www.linkedin.com/in/joão-franco-452161195/
 
-Project Link: [--------------------------]
+Project Link: [https://github.com/rohan27011/Photography]
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
