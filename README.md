@@ -25,7 +25,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/rohan27011/Photography">
-    <img src="main/assets/download.png" alt="Logo" width="80" height="80">
+    <img src="assets/download.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Photography Portfolio</h3>
