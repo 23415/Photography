@@ -77,7 +77,7 @@
 This project is a web-based portfolio that beautifully showcases the photography work of Sophia Williams, a fictional photographer. The portfolio was skillfully built using a combination of powerful front-end technologies, including Tailwind CSS, CSS, HTML, and JavaScript.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-<img src="assets/download.png" alt="Logo" width="80" height="80">
+<img src="assets/mockup.png" alt="Logo" width="200" height="200">
 ## 🛠️ Built With <a name="built-with"></a>
 
 - [![HTML][html-badge]][html-url]
