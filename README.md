@@ -145,8 +145,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## 📧 Contact <a name="contact"></a>
 
-Rohan Tiwari - https://www.linkedin.com/in/joão-franco-452161195/
-
+Rohan Tiwari - https://www.linkedin.com/in/rohan-tiwari-6362ba224/
 Project Link: [https://github.com/rohan27011/Photography]
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
