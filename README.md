@@ -77,7 +77,7 @@
 This project is a web-based portfolio that beautifully showcases the photography work of Andrew, a fictional photographer. The portfolio was skillfully built using a combination of powerful front-end technologies, including Tailwind CSS, CSS, HTML, and JavaScript.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-<img src="assets/mockup.png" alt="Logo" width="400" height="300">
+<img src="assets/mockup.png" alt="Logo" width="600" height="500">
 ## 🛠️ Built With <a name="built-with"></a>
 
 <!-- TABLE OF CONTENTS -->
